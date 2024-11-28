@@ -9,5 +9,6 @@ class ServiceTest {
     @Test
     void tested() {
         new Service().tested();
+        //trigger build
     }
 }
